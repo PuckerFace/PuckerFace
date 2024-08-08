@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Bukky
+(●'◡'●) I'm an aspiring software developer.
 
-<!--
-**PuckerFace/PuckerFace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently learnig javascript 😭, with future plans to learn MERN stack, some web animations like GSAP and anything to advance my path in web development(fingers crossed 🤞).
 
-Here are some ideas to get you started:
+🔧 I'm currently studying computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always on the lookout for new challenges and opportunities to learn.
+
+🎮 When I'm not coding, you can find me reading, watching anime, or geeking out over the latest in tech.
+
+📫 Let's connect! Feel free to reach out or contribute to any of my projects(when i finally have projects😭). Together, we can build something amazing (ง •_•)ง!
+
+<!--github stats from https://github.com/anuraghazra/github-readme-stats-->
+🐰 My pitiful GitHub stats
+<br><br>
+![](https://github-readme-stats.vercel.app/api?username=PuckerFace&show_icons=true&theme=merko)
+<br>
+
+
+
+
