@@ -1,5 +1,5 @@
 ## Hi, I'm Bukky
-(●'◡'●) I'm an aspiring software developer.
+(●'◡'●) I'm an aspiring full-stack developer.
 
 💻 Currently learnig react 😭, with future plans to become a full MERN stack dev , also learning some web animations like GSAP and anything to advance my path in web development(fingers crossed 🤞).
 
