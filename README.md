@@ -1,7 +1,7 @@
 ## Hi, I'm Bukky
 (●'◡'●) I'm an aspiring software developer.
 
-💻 Currently learnig javascript 😭, with future plans to learn MERN stack, some web animations like GSAP and anything to advance my path in web development(fingers crossed 🤞).
+💻 Currently learnig react 😭, with future plans to become a full MERN stack dev , also learning some web animations like GSAP and anything to advance my path in web development(fingers crossed 🤞).
 
 🔧 I'm currently studying computer science.
 
